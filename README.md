@@ -33,7 +33,7 @@ I keep it simple. I can help you with the whole thing from ideation to execution
 
 ## Visit my website
 
-[www.katharina-horn.com](www.katharina-horn.com)
+[www.katharina-horn.com](https://www.katharina-horn.com)
 
 <!--
 **kathahorn/kathahorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
