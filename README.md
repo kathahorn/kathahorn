@@ -2,7 +2,7 @@
 
 ## Straightforward and flexible
 
-I am Katharina Horn, a German :de: freelance designer :woman_artist: and developer :woman_technologist: born in Kazakhstan :kazakhstan:. Combining creativity and technology, I create holistic visual solutions for digital and print.
+I am Katharina Horn, a German :de: freelance designer :woman_artist: and developer :woman_technologist: born in Kazakhstan :kazakhstan:. Combining creativity and technology, I create holistic visual solutions for the web.
 
 ## Expertise
 
@@ -13,6 +13,8 @@ I keep it simple. I can help you with the whole thing from ideation to execution
 * HTML
 * CSS
 * JavaScript
+* React.js
+* Gatsby.js
 * WordPress
 
 **Languages**
@@ -25,11 +27,13 @@ I keep it simple. I can help you with the whole thing from ideation to execution
 
 **Currently learning**
 
+* GraphQL
+* Headless CMSes (like Contentful)
+* more JavaScript
 * Node.js
 * Express.js
 * APIs
 * MongoDB
-* React.js
 
 ## Visit my website
 
