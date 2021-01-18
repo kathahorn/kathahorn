@@ -12,10 +12,8 @@ I keep it simple. I can help you with the whole thing from ideation to execution
 
 * HTML
 * CSS
-* JavaScript
-* React.js
-* Gatsby.js
-* WordPress
+* JavaScript, React, Gatsby
+* Netlify CMS, WordPress
 
 **Languages**
 
@@ -27,13 +25,9 @@ I keep it simple. I can help you with the whole thing from ideation to execution
 
 **Currently learning**
 
-* GraphQL
-* Headless CMSes (like Contentful)
+* Python for Data Science and Machine Learning
+* GraphQL and Headless CMSes (like Contentful ans Netlify CMS)
 * more JavaScript
-* Node.js
-* Express.js
-* APIs
-* MongoDB
 
 ## Visit my website
 
