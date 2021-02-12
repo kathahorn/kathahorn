@@ -26,7 +26,7 @@ I keep it simple. I can help you with the whole thing from ideation to execution
 **Currently learning**
 
 * Python for Data Science and Machine Learning
-* GraphQL and Headless CMSes (like Contentful ans Netlify CMS)
+* GraphQL and Headless CMSes
 * more JavaScript
 
 ## Visit my website
